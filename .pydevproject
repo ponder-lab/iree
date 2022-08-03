@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?eclipse-pydev version="1.0"?><pydev_project>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
+    <pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">python interpreter</pydev_property>
+    <pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
+        <path>/${PROJECT_DIR_NAME}/build_tools/bazel_to_cmake</path>
+        <path>/${PROJECT_DIR_NAME}/build_tools/benchmarks</path>
+        <path>/${PROJECT_DIR_NAME}/build_tools/scripts</path>
+        <path>/${PROJECT_DIR_NAME}/compiler/src/iree/compiler/API/python/iree/compiler</path>
+        <path>/${PROJECT_DIR_NAME}/compiler/src/iree/compiler/API/python/test</path>
+        <path>/${PROJECT_DIR_NAME}/integrations/tensorflow/build_tools/testdata</path>
+        <path>/${PROJECT_DIR_NAME}/llvm-external-projects/iree-dialects/python/iree/compiler/dialects</path>
+        <path>/${PROJECT_DIR_NAME}/llvm-external-projects/iree-dialects/test/python</path>
+        <path>/${PROJECT_DIR_NAME}/runtime/bindings/python/iree/runtime</path>
+        <path>/${PROJECT_DIR_NAME}/runtime/bindings/python/tests</path>
+    </pydev_pathproperty>
+</pydev_project>
